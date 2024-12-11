@@ -1,6 +1,6 @@
 body {
     color: blue;
-}:q
+}
 
 h1 {
     color: purple;
@@ -13,7 +13,6 @@ h2 {
 p {
     color: green;
     font-size: 20px;
-    font-family: Arial;
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
@@ -47,6 +46,4 @@ ul {
     list-style: -moz-element;
     list-style: none;
     list-style-image: url("https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png");
-    -
-
-}
+    }
