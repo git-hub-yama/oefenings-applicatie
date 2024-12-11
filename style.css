@@ -1,0 +1,44 @@
+body {
+    color: blue;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: red;
+}
+
+p {
+    color: green;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 30px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    direction: rtl;
+    background-color: yellow;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    outline: 1px solid red;
+    box-shadow: 10px 10px 5px #888888;
+    cursor: pointer;
+    user-select: none;
+    transform: rotate(45deg);
+    transition: all 1s;
+    animation: mymove 5s infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+    animation-delay: 2s;
+
+}
